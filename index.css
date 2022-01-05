@@ -1,0 +1,94 @@
+*{
+    font-family: 'cwTeXYen';
+    font-weight: 700;
+}
+.background{
+background-color: #FFCC8F;
+position: absolute;
+top: 0px;
+left: 0px;
+width: 1194px;
+height: 834px;
+}
+
+.tittle{
+    color: white;
+    font-size: 52px;
+    position: absolute;
+    top: 26px;
+    left: 150px;
+}
+.lastPage{
+    position: absolute;
+    left: 27px;
+    top: 74px;    
+}
+.home{
+    position: absolute;
+    left: 1068px;
+    top: 74px;    
+}
+.box{
+    position: absolute;
+    left: 23px;
+    top: 210px;
+}
+.inputtittle1{
+    position: absolute;
+    left: 560px;
+    top: 240px;
+    font-size: 40px;
+    color: white;
+}
+.inputtext1{
+    position: absolute;
+    left: 565px;
+    top: 300px;
+    font-size: 28px;
+    color: white;
+    width: 210px;
+    line-height: 35px;
+}
+.inputtittle2{
+    position: absolute;
+    left: 560px;
+    top: 440px;
+    font-size: 40px;
+    color: rgba(103, 103, 103, 1);
+}
+.inputtext2{
+    position: absolute;
+    left: 565px;
+    top: 510px;
+    font-size: 28px;
+    color: rgba(103, 103, 103, 1);
+    width: 330px;
+    line-height: 35px;
+}
+.inputtext3{
+    position: absolute;
+    left: 565px;
+    top: 335px;
+    font-size: 28px;
+    color: white;
+    width: 150px;
+    line-height: 35px;
+}
+.downtittle{
+    position: absolute;
+    left: 300px;
+    top: 680px;
+    font-size: 45px;
+    color: white;
+    line-height: 35px;
+}
+.right{
+    position: absolute;
+    left: 1085px;
+    top: 715px;
+}
+.left{
+    position: absolute;
+    left: 80px;
+    top: 715px;
+}
